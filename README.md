@@ -1,6 +1,6 @@
 # StretchyHeader
 
-This app will represent a postcard for places in the world. As beautiful as it is to see places, as beautiful the postcard should be. This repo shows how to create custom control called Stretchy Header. Since many famous apps like Netflix, Twitter use it it will be exiting to have it in yours app too. 
+This app is about Postards for places. 
 
 # Build Status
 
