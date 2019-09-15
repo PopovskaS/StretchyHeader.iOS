@@ -1,6 +1,6 @@
 # StretchyHeader
 
-This app is about Postards for places. 
+This app is about postcards for places. 
 
 # Build Status
 
